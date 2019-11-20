@@ -1,4 +1,4 @@
-#' @title
+#' @title Test
 #'
 #' @description
 #'
@@ -19,5 +19,6 @@ randomLetterFunc <- function(n){
 
   return(alphabetVec)
 }
+
 
 
